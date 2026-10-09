@@ -1,5 +1,5 @@
 # network-file-exchanger
-## A CLI program that allows to exchange files and messages on the local network
+This is a CLI program that allows to exchange files and messages on the local network
 
 # WARNING: Not properly tested yet! DO NOT use in environments with sensitive information!
 
@@ -16,3 +16,6 @@
 # To Do List
 1. Add user profile
 2. Improve overall security
+
+# License
+This project is licensed under the MIT License
